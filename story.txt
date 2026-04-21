@@ -1,5 +1,9 @@
 The Ypsilanti fire department told bug that she was too small to be a fire-truck 
 dog, the job she wanted most in the world. Her sister, Ella, spent the rest of the
+<<<<<<< HEAD
 day being extra nice to bug. Ella really was a great big sister. Bug appreciated 
 that, but decided to get in touch with her lawyer anyway. Her brother Eugene, felt 
 they all should just enjoy their retirement.
+=======
+day being extra nice to bug.
+>>>>>>> parent of d808948 (added another sentence)
